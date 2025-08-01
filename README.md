@@ -30,7 +30,10 @@ unzip main.zip`
 
 
 `cd marzban_backup_bot-main`
+
 `chmod marzban_backup_bot-main`
+
 `chmod +x backup_and_send.sh`
+
 `bash install.sh`
 
