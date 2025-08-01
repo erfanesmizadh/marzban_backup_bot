@@ -17,10 +17,10 @@
 5. (اختیاری) کرون‌جاب تنظیم کنید برای اجرای خودکار روزانه.
 
 ## اجرای سریع
+
 (1). با خط پایین پروژه و کلون و unzip کنین.
-```bash
-wget https://github.com/erfanesmizadh/marzban_backup_bot/archive/refs/heads/main.zip
-unzip main.zip```
+`wget https://github.com/erfanesmizadh/marzban_backup_bot/archive/refs/heads/main.zip
+unzip main.zip`
 
 
 (2). با خط پایین اطلاعات ربات تلگرام خود و دیتابیس مرزبان خود را وارد کنین
