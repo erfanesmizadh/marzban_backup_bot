@@ -4,16 +4,22 @@
 
 ## ویژگی‌ها
 
-- بکاپ‌گیری از مسیرهای مهم Marzban
-- ارسال بکاپ به تلگرام
-- اجرای زمان‌بندی‌شده با Cronjob
+- بکاپ‌گیری از مسیرهای مهم Marzban (تنظیمات، دیتابیس، گواهینامه‌ها و ...)
+- ارسال بکاپ‌ها به ربات تلگرام
+- امکان اجرای زمان‌بندی‌شده با Cronjob
+- پشتیبانی از Telegram Bot API
 
-## نصب سریع
+## طریقه استفاده
+1. فایل Marzban Backup Bot آپلود کنین داخل مسیر Root سرور مجازی خود.
+2. فایل `config.env` را با ویرایشگر nano تنظیم کنید.از شما اطلاعات دیتابیس بیش مرزبان شما و میخادش.
+3. اسکریپت `backup_and_send.sh` را اجرا کنید.
+4. اسکریپت `install.sh` را اجرا کنید.
+5. (اختیاری) کرون‌جاب تنظیم کنید برای اجرای خودکار روزانه.
+
+## اجرای سریع
 
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/erfanesmizadh/marzban_backup_bot/main/install.sh)
-```
+nano config.env
+chmod +x backup_and_send.sh
+./install.sh
 
-## مجوز
-
-MIT License
