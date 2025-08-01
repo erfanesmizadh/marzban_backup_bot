@@ -21,6 +21,7 @@
 ```bash
 wget https://github.com/erfanesmizadh/marzban_backup_bot/archive/refs/heads/main.zip
 unzip main.zip
+cd marzban_backup_bot.main
 chmod marzban_backup_bot.main
 chmod +x backup_and_send.sh
 ./install.sh
