@@ -23,11 +23,12 @@ wget https://github.com/erfanesmizadh/marzban_backup_bot/archive/refs/heads/main
 unzip main.zip```
 
 (2).با خط پایین اطلاعات ربات تلگرام خود و دیتابیس مرزبان خود را وارد کنین
-```nano config.env```
+```
+nano config.env```
 
 ```bash
 cd marzban_backup_bot-main
 chmod marzban_backup_bot-main
 chmod +x backup_and_send.sh
-bash install.sh
+bash install.sh```
 
