@@ -1,6 +1,0 @@
-*.zip
-*.log
-*.bak
-.env
-config.env
-.DS_Store
