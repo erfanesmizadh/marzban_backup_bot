@@ -22,7 +22,6 @@
 clone https://github.com/erfanesmizadh/marzban_backup_bot/archive/refs/heads/main.zip
 unzip main.zip
 chmod marzban_backup_bot.main
-nano config.env
 chmod +x backup_and_send.sh
 ./install.sh
 
