@@ -35,4 +35,3 @@ unzip main.zip
 `chmod +x backup_and_send.sh`
 
 `bash install.sh`
-
