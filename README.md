@@ -18,12 +18,17 @@
 
 ## اجرای سریع
 (1). با خط پایین پروژه و کلون و unzip کنین.
+```
 wget https://github.com/erfanesmizadh/marzban_backup_bot/archive/refs/heads/main.zip
-unzip main.zip
+unzip main.zip```
 
 (2).با خط پایین اطلاعات ربات تلگرام خود و دیتابیس مرزبان خود را وارد کنین
-```bash
-nano config.env`
+
+```
+nano config.env
+```
+
+
 ```
 cd marzban_backup_bot-main
 chmod marzban_backup_bot-main
