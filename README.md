@@ -26,6 +26,7 @@ unzip main.zip
 ```
 
 
+
 (2). با خط کد پایین فایل پکاپر خود را به حالت اجرایی در بیارین و وارد مسیرش بشین و بعدش با ویرایشگر nano توکن و آیدی عددی ربات خود که بکاپ بهش میخاد ارسال بشه و بدین و از همه مهمتر اطلاعات دیتابیس مرزبان شما هم میخادش 
 ```
 chmod marzban_backup_bot-main
@@ -33,9 +34,15 @@ cd marzban_backup_bot-main
 nano config.env
 ```
 
+
+(3). با دستور پایین ربات خود را اجرا کنین کرون جاب به صورت خودکار بکاپ میفرسته.
 ```
-cd marzban_backup_bot-main
-chmod marzban_backup_bot-main
 chmod +x backup_and_send.sh
 bash install.sh
+```
+
+
+(4). برای عوض کردن ساعت بکاپ خود از دستور زیر استفاده کنین.
+```
+crontab -e
 ```
