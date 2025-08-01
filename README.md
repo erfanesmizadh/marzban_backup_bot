@@ -22,11 +22,9 @@
 
 ```
 wget https://github.com/erfanesmizadh/marzban_backup_bot/archive/refs/heads/main.zip
-unzip main.zip```
+unzip main.zip
 
 
-
-```
 nano config.env```
 
 
