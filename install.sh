@@ -3,7 +3,7 @@
 set -e
 
 # تنظیم آدرس مخزن
-REPO_URL="https://github.com/erfan/marzban_backup_bot"
+REPO_URL="https://github.com/erfanesmizadh/marzban_backup_bot"
 TARGET_DIR="/opt/marzban_backup_bot"
 
 echo "📥 دریافت سورس از GitHub..."
