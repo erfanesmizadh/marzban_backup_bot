@@ -19,6 +19,7 @@
 ## اجرای سریع
 
 (1). با خط پایین پروژه و کلون و unzip کنین.
+
 `wget https://github.com/erfanesmizadh/marzban_backup_bot/archive/refs/heads/main.zip
 unzip main.zip`
 
