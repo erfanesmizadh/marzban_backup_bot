@@ -11,7 +11,7 @@
 ## نصب سریع
 
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/erfan/marzban_backup_bot/main/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/erfanesmizadh/marzban_backup_bot/main/install.sh)
 ```
 
 ## مجوز
