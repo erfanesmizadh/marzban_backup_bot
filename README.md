@@ -20,11 +20,11 @@
 (1). با خط پایین پروژه و کلون و unzip کنین.
 ```bash
 wget https://github.com/erfanesmizadh/marzban_backup_bot/archive/refs/heads/main.zip
-unzip main.zip
+unzip main.zip```
 
 (2).با خط پایین اطلاعات ربات تلگرام خود و دیتابیس مرزبان خود را وارد کنین
-```
-nano config.env
+```bash
+nano config.env```
 
 ```bash
 cd marzban_backup_bot-main
