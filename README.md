@@ -26,7 +26,7 @@ unzip main.zip
 
 
 
-```nano config.env
+```nano config.env```
 
 `cd marzban_backup_bot-main`
 
@@ -34,4 +34,4 @@ unzip main.zip
 
 `chmod +x backup_and_send.sh`
 
-`bash install.sh`
+`bash install.sh
